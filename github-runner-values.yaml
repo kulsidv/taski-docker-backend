@@ -1,0 +1,5 @@
+githubConfigUrl: https://github.com/kulsidv/taski-docker-backend
+githubConfigSecret:
+  github_token: *** (при запуске было реальное значение)
+containerMode:
+  type: "dind"
